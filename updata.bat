@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 @title 自动更新脑图
 
 set path=%path%;C:\Program Files\Git\cmd
