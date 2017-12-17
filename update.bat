@@ -9,4 +9,4 @@ git add *
 git commit -m "update the mindmap today"
 git push origin master
 
-echo.>D:1.txt
+echo.>D:\1.txt
