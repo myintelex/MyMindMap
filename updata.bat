@@ -9,5 +9,5 @@ git add *
 git commit -m "update the mindmap today"
 git push origin master
 
-echo\&echo done...
-pause
+echo\&echo 10秒后自动关闭
+ping 127.0.0.1 -n 10 >nul
