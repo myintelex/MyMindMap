@@ -3,9 +3,13 @@
 
 set path=%path%;C:\Program Files\Git\cmd
 
-cd /d D:\A01脑图\0. 知识结构
+cd /d F:\O-MindMap\MyMindMap
 
+<<<<<<< HEAD
 
+=======
+git pull origin master
+>>>>>>> 3847795013f8a17dd9dbb957fefe2b47624f11fd
 git add *
 git commit -m "update the mindmap today"
 git pull origin master
