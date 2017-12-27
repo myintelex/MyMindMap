@@ -5,6 +5,7 @@ set path=%path%;C:\Program Files\Git\cmd
 
 cd /d F:\O-MindMap\MyMindMap
 
+echo start pull
 
 git pull origin master
 git add *
